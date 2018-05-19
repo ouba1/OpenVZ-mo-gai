@@ -7,7 +7,7 @@ bash tcp_nanqinlang-haproxy-debian.sh
 ```
 
 ```bash
-# this is for CentOS 6/7
+# this is for CentOS 7
 wget https://raw.githubusercontent.com/ouba1/OpenVZ-mo-gai/master/tcp_nanqinlang-haproxy-centos.sh
 bash tcp_nanqinlang-haproxy-centos.sh
 ```
