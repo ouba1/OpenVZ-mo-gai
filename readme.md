@@ -1,13 +1,13 @@
 
 
 ```bash
-# this is for Debian 8
+# 以下适用于 Debian 8+ 环境：
 wget https://raw.githubusercontent.com/ouba1/OpenVZ-mo-gai/master/tcp_nanqinlang-haproxy-debian.sh
 bash tcp_nanqinlang-haproxy-debian.sh
 ```
 
 ```bash
-# this is for CentOS 7
+# 以下适用于 CentOS 7 环境：
 wget https://raw.githubusercontent.com/ouba1/OpenVZ-mo-gai/master/tcp_nanqinlang-haproxy-centos.sh
 bash tcp_nanqinlang-haproxy-centos.sh
 ```
